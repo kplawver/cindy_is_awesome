@@ -1,4 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://cindyisawesome.lawver.net"
 languageCode = "en-us"
 title = "Cindy Li Is Awesome and Everyone Loves Her"
 theme = "ananke"
+
+[params]
+  description = ""
+  recent_posts_number=25
