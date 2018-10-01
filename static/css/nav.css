@@ -14,7 +14,15 @@ nav.footer-nav ul {
 }
 
 nav.footer-nav ul li {
-  display: inline;
-  margin: 0;
+  display: inline-block;
+  margin: 0 1em;
   padding: 0;
+}
+
+nav.footer-nav ul li:first-child {
+  margin-left: 0;
+}
+
+nav.footer-nav ul li:last-child {
+  margin-right: 0;
 }
