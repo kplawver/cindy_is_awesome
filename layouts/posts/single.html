@@ -1,0 +1,29 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <p class="f6 b helvetica tracked">
+          {{ humanize .Section | upper  }}
+        </p>
+        <h1 class="f1">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ .Content }}
+        <nav class="footer-nav">
+          <h3>Keep Wandering</h3>
+          <ul>
+          {{ with .PrevInSection }}
+            <li class="previous">&laquo; <a class="previous" href="{{.Permalink}}"> {{.Title}}</a></li>
+          {{ end }}
+          {{ with .NextInSection }}
+            <li class="next"><a class="next" href="{{.Permalink}}"> {{.Title}}</a> &raquo;</li>
+          {{ end }}
+          </ul>
+        </nav>
+      </div>
+    </article>
+  </div>
+{{ end }}

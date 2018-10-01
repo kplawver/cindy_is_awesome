@@ -2,7 +2,17 @@ baseURL = "https://cindyisawesome.lawver.net"
 languageCode = "en-us"
 title = "Cindy Li Is Awesome and Everyone Loves Her"
 theme = "ananke"
+paginate = 25
 
 [params]
   description = ""
   recent_posts_number=25
+  custom_css = ["css/nav.css"]
+
+# [related]
+#   threshold = 80
+#   includeNewer = true
+#   toLower = true
+#   [[related.indices]]
+#   name = "date"
+#   weight = 100
