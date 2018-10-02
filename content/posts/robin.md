@@ -6,4 +6,6 @@ draft: false
 
 <img src="/photos/robin_zebrowski/Muir Woods 2015.jpg"/>
 
+Almost all my other photos from this trip were of Apollo and Mathison with artfully-placed tiny stormtroopers scattered throughout the woods!
+
 I can't believe how few photos I have of us!
