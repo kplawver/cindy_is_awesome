@@ -6,7 +6,7 @@ draft: false
 
 Oh my goodness, how are all our stories of how we met Cindy so alike? Similarly I don’t remember the *exact* moment I met Cindy. It is like she just appeared and instantly she was part of my life.
 
-We were both working at AOL, and the various design teams were being combined. Cindy had come up from Atlanta, part of an acquisition and building of a new product “AOL TV” which sadly was shut down because it was way ahead of it’s time. I mean, really, who would connect their tv to the internet?! (this was 2000/2001 maybe?) Cindy was a connector on our design team - pulling folks together - the glue of the team in many ways. 📺
+We were both working at AOL, and the various design teams were being combined. Cindy had come up from Atlanta, part of an acquisition and building of a new product “AOL TV” which sadly was shut down because it was way ahead of it’s time. I mean, really, who would connect their tv to the internet?! (this was 2000 / 2001 maybe?) Cindy was a connector on our design team - pulling folks together - the glue of the team in many ways. 📺
 
 So many stories…
 
