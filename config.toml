@@ -9,6 +9,10 @@ paginate = 25
   recent_posts_number=25
   custom_css = ["css/nav.css"]
 
+[imaging]
+quality=75
+resize="800x"
+
 # [related]
 #   threshold = 80
 #   includeNewer = true

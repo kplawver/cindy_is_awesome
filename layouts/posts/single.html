@@ -11,7 +11,17 @@
         </h1>
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        {{ .Content }}
+        <section class="gallery">
+        {{ with .Resources.Match "photos/*" }}
+          {{ $image := $resource.Resize "800x" }}
+          <figure>
+	          <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+          </figure>
+        {{ end }}
+        </section>
+        <section class="content">
+          {{ .Content }}
+        </section>
         <nav class="footer-nav">
           <h3>Keep Wandering</h3>
           <ul>
