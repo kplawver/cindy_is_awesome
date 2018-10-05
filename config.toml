@@ -7,7 +7,7 @@ paginate = 25
 [params]
   description = ""
   recent_posts_number=25
-  custom_css = ["css/nav.css"]
+  custom_css = ["css/nav.css", "css/gallery.css"]
 
 [imaging]
 quality=75

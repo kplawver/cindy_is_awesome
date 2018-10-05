@@ -11,6 +11,9 @@
         </h1>
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        <section class="content">
+          {{ .Content }}
+        </section>
         <section class="gallery">
         {{ with .Page.Resources.ByType "image" }}
           {{ range . }}
@@ -21,9 +24,6 @@
             </figure>
           {{ end }}
         {{ end }}
-        </section>
-        <section class="content">
-          {{ .Content }}
         </section>
         <nav class="footer-nav">
           <h3>Keep Wandering</h3>

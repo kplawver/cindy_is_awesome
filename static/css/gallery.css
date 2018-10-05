@@ -1,0 +1,11 @@
+section.gallery {
+
+}
+
+section.gallery figure {
+  margin: 0 0 20px;
+}
+
+section.gallery figure figcaption {
+  margin: 10px 0 0;
+}
