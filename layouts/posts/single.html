@@ -11,7 +11,20 @@
         </h1>
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        {{ .Content }}
+        <section class="content">
+          {{ .Content }}
+        </section>
+        <section class="gallery">
+        {{ with .Page.Resources.ByType "image" }}
+          {{ range . }}
+            {{ $image := (.Resize "700x") }}
+            <figure>
+              <img style="max-width: 100%;" src="{{ $image.RelPermalink }}">
+              <figcaption>{{ .Title }}</figcaption>
+            </figure>
+          {{ end }}
+        {{ end }}
+        </section>
         <nav class="footer-nav">
           <h3>Keep Wandering</h3>
           <ul>
