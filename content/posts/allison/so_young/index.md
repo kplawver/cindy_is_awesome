@@ -2,6 +2,8 @@
 title: "Allison: So Young"
 date: 2018-09-30T14:39:37-04:00
 draft: false
+tags:
+- allison
 resources:
 - src: cindy and allison.jpg
   title: So young, but one of our faves.

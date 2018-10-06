@@ -2,6 +2,8 @@
 title: "Chris: Impromptu Foodfests"
 date: 2018-10-06T07:33:16-04:00
 draft: false
+tags:
+- chris
 resources:
 - src: img-1.jpg
   title:

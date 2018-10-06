@@ -2,6 +2,8 @@
 title: "Holly: Holly 2.0"
 date: 2018-10-06T07:44:57-04:00
 draft: false
+tags:
+- holly
 resources:
 - src: img-1.jpg
   title: I had a crappy camera

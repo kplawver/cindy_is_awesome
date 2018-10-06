@@ -2,6 +2,8 @@
 title: "Jessica: Culinary Feats"
 date: 2018-10-02T07:55:48-04:00
 draft: false
+tags:
+- jessica
 resources:
 - src: one.jpg
   title: ''

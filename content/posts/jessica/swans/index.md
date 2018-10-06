@@ -2,6 +2,8 @@
 title: "Jessica: Swans & Birthdays"
 date: 2018-10-01
 draft: false
+tags:
+- jessica
 resources:
 - src: 2005 original swan.jpg
   title:

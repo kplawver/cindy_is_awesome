@@ -2,6 +2,8 @@
 title: "Poppy: Dancing"
 date: 2018-10-06T07:17:16-04:00
 draft: false
+tags:
+- poppy
 resources:
 - src: img-1.jpg
   title: Cindy was moving to SF ~2007 - Dance peeps

@@ -2,6 +2,8 @@
 title: "Jason: My Cindy Li Origin Story"
 date: 2018-10-02T15:14:17-04:00
 draft: false
+tags:
+- jason
 ---
 
 My Cindy Li Origin Story:

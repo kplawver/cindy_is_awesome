@@ -2,6 +2,8 @@
 title: "Sarah"
 date: 2018-09-30T15:53:27-04:00
 draft: false
+tags:
+- sarah
 resources:
 - src: 9492347060_883d9265e3_o.jpg
   title:

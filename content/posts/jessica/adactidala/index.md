@@ -2,6 +2,8 @@
 title: "Jessica: Adactidala"
 date: 2018-10-01T17:31:46-04:00
 draft: false
+tags:
+- jessica
 resources:
 - src: 2007 adactidala.jpg
   title: ""

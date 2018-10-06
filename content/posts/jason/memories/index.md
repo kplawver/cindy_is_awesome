@@ -2,6 +2,8 @@
 title: "Jason: Memories"
 date: 2018-09-30T14:55:59-04:00
 draft: false
+tags:
+- jason
 resources:
 - src: wedding.jpg
   title: Day after our wedding with my best man Jon in the background.

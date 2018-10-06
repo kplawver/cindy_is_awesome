@@ -2,6 +2,8 @@
 title: "Lauren: Paris"
 date: 2018-10-02T07:42:16-04:00
 draft: false
+tags:
+- lauren
 resources:
 - src: one.jpg
   title:

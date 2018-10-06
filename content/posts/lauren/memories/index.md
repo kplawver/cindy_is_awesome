@@ -2,6 +2,8 @@
 title: "Lauren"
 date: 2018-09-30T15:00:34-04:00
 draft: false
+tags:
+- lauren
 resources:
 - src: IMG_0044.JPG
   title: The first time I met Apollo

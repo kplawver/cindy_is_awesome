@@ -2,6 +2,8 @@
 title: "Stephanie F."
 date: 2018-09-30T15:01:13-04:00
 draft: false
+tags:
+- stephanie-f
 resources:
 - src: fish-face.jpg
   title:

@@ -2,6 +2,8 @@
 title: "Larry: Photodump"
 date: 2018-10-05T17:21:16-04:00
 draft: false
+tags:
+- larry
 resources:
 - src: one.jpg
   title:

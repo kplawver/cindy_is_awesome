@@ -2,6 +2,8 @@
 title: "Marcela: Queen"
 date: 2018-10-02T15:12:11-04:00
 draft: false
+tags:
+- marcela
 resources:
 - src: one.jpg
   title: ''

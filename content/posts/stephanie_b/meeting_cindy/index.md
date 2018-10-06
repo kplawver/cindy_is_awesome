@@ -2,6 +2,8 @@
 title: "Stephanie B: Meeting Cindy"
 date: 2018-10-06T07:36:41-04:00
 draft: false
+tags:
+- stephanie-b
 resources:
 - src: img-01.jpg
   title: Cindy - modeling her "going out" clothes

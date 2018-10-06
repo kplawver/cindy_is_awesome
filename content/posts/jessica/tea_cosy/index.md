@@ -2,6 +2,8 @@
 title: "Jessica: Tea Cosy"
 date: 2018-10-01T17:32:29-04:00
 draft: false
+tags:
+- jessica
 resources:
 - src: 2008 tea cosy.jpg
   title:

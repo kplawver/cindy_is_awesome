@@ -2,6 +2,8 @@
 title: "Jessica: dConstruct"
 date: 2018-10-01T17:35:00-04:00
 draft: false
+tags:
+- jessica
 resources:
 - src: 2011 silly faces.jpg
   title:

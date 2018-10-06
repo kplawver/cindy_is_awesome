@@ -2,6 +2,8 @@
 title: "Robin: How I Met Cindy"
 date: 2018-10-02T15:20:55-04:00
 draft: false
+tags:
+- robin
 ---
 
 

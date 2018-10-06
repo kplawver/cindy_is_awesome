@@ -2,6 +2,8 @@
 title: "Craig: Meeting Cindy"
 date: 2018-10-02T15:23:02-04:00
 draft: false
+tags:
+- craig
 resources:
 - src: hat.jpg
   title:

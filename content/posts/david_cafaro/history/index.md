@@ -2,6 +2,8 @@
 title: "David: History"
 date: 2018-10-06T07:09:11-04:00
 draft: false
+tags:
+- david-c
 resources:
 - src: img-1.png
   title: Take two on my favorite memories of Cindy...In the beginning there was tenth grade and I met Cindy at a math competition, that neither of us were competing at, but wanted the extra credit points for volunteering.  Was instantly charmed with her outgoing friendly, joking, high energy self.

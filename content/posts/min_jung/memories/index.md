@@ -2,6 +2,8 @@
 title: "Min Jung"
 date: 2018-09-30T15:00:54-04:00
 draft: false
+tags:
+- min-jung
 resources:
 - src: cindy_hat.jpg
   title: She always looks great in hats.

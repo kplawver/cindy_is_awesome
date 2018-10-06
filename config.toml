@@ -7,11 +7,15 @@ paginate = 25
 [params]
   description = ""
   recent_posts_number=25
-  custom_css = ["css/nav.css", "css/gallery.css"]
+  custom_css = ["css/nav.css", "css/gallery.css", "css/header.css"]
+  featured_image = "/photos/site/cindy_is_awesome.jpg"
 
 [imaging]
 quality=75
 resize="800x"
+
+[taxonomies]
+tags = "tags"
 
 # [related]
 #   threshold = 80

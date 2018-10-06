@@ -2,6 +2,8 @@
 title: "Jody: I could seriously go on and on..."
 date: 2018-10-02T10:34:56-04:00
 draft: false
+tags:
+- jody
 ---
 
 Oh my goodness, how are all our stories of how we met Cindy so alike? Similarly I don’t remember the *exact* moment I met Cindy. It is like she just appeared and instantly she was part of my life.

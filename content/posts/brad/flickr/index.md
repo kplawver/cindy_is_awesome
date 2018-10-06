@@ -2,6 +2,8 @@
 title: "Brad: Flickr"
 date: 2018-10-06T07:54:10-04:00
 draft: false
+tags:
+- brad
 resources:
 - src: img-1.jpg
   title: Yes, we look a little serious especially when you’re demoing a revamped Flickr app to your CEO, Marissa Mayer.

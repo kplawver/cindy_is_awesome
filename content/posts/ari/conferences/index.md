@@ -2,6 +2,8 @@
 title: "Ari: Conferences"
 date: 2018-10-06T07:24:41-04:00
 draft: false
+tags:
+- ari
 resources:
 - src: img-1.jpg
   title: "I met Cindy at SXSW, but not sure what year (2007? 2008? Earlier?). Anyway, here we are lounging at the trade show. :smile: :smile:"

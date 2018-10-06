@@ -2,6 +2,8 @@
 title: "Min Jung: Love"
 date: 2018-10-06T07:30:49-04:00
 draft: false
+tags:
+- min-jung
 resources:
 - src: img-1.jpg
   title:

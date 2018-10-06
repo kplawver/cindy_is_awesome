@@ -2,6 +2,8 @@
 title: "Jaime: Smile"
 date: 2018-10-02T07:52:48-04:00
 draft: false
+tags:
+- jaime
 resources:
 - src: one.jpg
   title: ''

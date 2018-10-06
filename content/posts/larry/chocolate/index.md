@@ -2,6 +2,8 @@
 title: "Larry: Tempering Chocolate"
 date: 2018-10-02T07:50:31-04:00
 draft: false
+tags:
+- larry
 resources:
 - src: one.jpg
   title: ''
