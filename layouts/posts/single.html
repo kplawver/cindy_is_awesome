@@ -12,15 +12,15 @@
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         <section class="content">
-          {{ .Content }}
+          {{ emojify .Content }}
         </section>
         <section class="gallery">
         {{ with .Page.Resources.ByType "image" }}
           {{ range . }}
             {{ $image := (.Resize "700x") }}
             <figure>
-              <img style="max-width: 100%;" src="{{ $image.RelPermalink }}">
-              <figcaption>{{ .Title }}</figcaption>
+              <img src="{{ $image.RelPermalink }}">
+              <figcaption>{{ emojify .Title }}</figcaption>
             </figure>
           {{ end }}
         {{ end }}

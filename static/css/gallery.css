@@ -3,9 +3,9 @@ section.gallery {
 }
 
 section.gallery figure {
-  margin: 0 0 20px;
+  margin: 50px auto;
 }
 
 section.gallery figure figcaption {
-  margin: 10px 0 0;
+  margin: 12px 0 0;
 }
