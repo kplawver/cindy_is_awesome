@@ -6,6 +6,7 @@ tags:
 - marcela
 resources:
 - src: img-1.jpg
+  title:
 ---
 
 I love how Apollo is looking at mommy in this picture!
