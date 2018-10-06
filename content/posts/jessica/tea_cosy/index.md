@@ -4,9 +4,13 @@ date: 2018-10-01T17:32:29-04:00
 draft: false
 resources:
 - src: 2008 tea cosy.jpg
+  title:
 - src: 2008 bunny ears.jpg
+  title:
 - src: 2008 jeremy matt duel.jpg
+  title:
 - src: 2010 jessica cindy duel.jpg
+  title:
 
 ---
 

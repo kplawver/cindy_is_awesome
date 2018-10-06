@@ -4,8 +4,11 @@ date: 2018-10-01T07:38:23-04:00
 draft: false
 resources:
 - src: IMG_0057.jpg
+  title:
 - src: IMG_0081.jpg
+  title:
 - src: IMG_0083.jpg
+  title:
 ---
 
 
