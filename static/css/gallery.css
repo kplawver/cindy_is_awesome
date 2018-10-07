@@ -6,6 +6,25 @@ section.gallery figure {
   margin: 50px auto;
 }
 
+section.gallery figure.no-resize img {
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 section.gallery figure figcaption {
   margin: 12px 0 0;
+}
+
+aside.mini-gallery {
+  margin: 20px 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+aside.mini-gallery figure {
+  flex: 0 0 100px;
+  margin: 0 5px 5px;
+  padding: 0;
 }

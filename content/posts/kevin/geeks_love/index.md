@@ -6,9 +6,13 @@ tags:
 - kevin
 resources:
 - src: one.jpg
-  title: ""
+  title:
+  params:
+    alt: "A whole bunch of people wearing their Geeks Love shirts at SxSW."
 - src: two.jpg
-  title: ""
+  title:
+  params:
+    alt: "Kevin wearing his Geeks Love shirt giving a huge but slightly sarcastic thumbs up."
 ---
 
 Like Sarah, I don’t really remember how I met Cindy.  She just kind of *appeared* one day at AOL and I got sucked into the Cindy Li Vortex of Fun Adventures.  My favorite Cindy story of all-time was how the “Geeks Love *” shirt happened.  Cindy, Jason and I were at lunch and I were at lunch one day after I’d spent all morning interviewing developers for a contract position.  I’d quizzed them all about web standards and they’d all failed to some degree, except one smug guy who said, “Yeah, we’re really anal about standards, because, you know, geeks love anal.”  I looked up from the notes I was writing and said, “That’s going on a t-shirt.”  The guy was mortally embarrassed and let his less-smug partner talk the rest of the meeting.  Telling Cindy and Jason the story, we all decided that it really _did_ need to become a t-shirt and we all laughed way too loud when we came up with the design.  

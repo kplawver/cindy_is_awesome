@@ -9,4 +9,6 @@ resources:
   title: I got a Green Lantern mask at Toys R Us (this was when the movie had just come out, but we'll not mention it again) and painted it with acrylics. She used her Queen of Hearts coat and they matched nicely.
 - src: 3.png
   title: One of the code examples.
+  params:
+    noresize: true
 ---
