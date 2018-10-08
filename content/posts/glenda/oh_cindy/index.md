@@ -1,7 +1,7 @@
 ---
 title: "Glenda: Oh Cindy"
 date: 2018-10-08T10:39:56-04:00
-draft: true
+draft: false
 tags:
 - glenda
 - sxsw
