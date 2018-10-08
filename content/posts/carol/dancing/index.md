@@ -4,6 +4,7 @@ date: 2018-10-01T07:41:26-04:00
 draft: false
 tags:
 - carol
+- dancing
 resources:
 - src: one.jpg
   title:

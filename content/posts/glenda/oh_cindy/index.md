@@ -2,6 +2,9 @@
 title: "Glenda: Oh Cindy"
 date: 2018-10-08T10:39:56-04:00
 draft: true
+tags:
+- glenda
+- sxsw
 resources:
 - src: img-01.png
   title: Glenda, Cindy and Leslie at SXSWi 2006 (if memory serves me well)
