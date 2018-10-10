@@ -2,6 +2,9 @@
 title: "Stef: It just feels like I always knew her."
 date: 2018-10-08T15:12:59-04:00
 draft: false
+resources:
+- src: img-01.jpg
+  title: Cindy and Mark Hamill!
 ---
 
 I can’t remember when I met Cindy. It just feels like I always knew her. I grew up in Jacksonville too, but I left _many_ years prior to her years. I was at SXSW starting around 2006, so it could have been there.
