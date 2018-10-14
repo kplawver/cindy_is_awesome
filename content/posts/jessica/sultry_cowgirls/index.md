@@ -4,6 +4,7 @@ date: 2018-10-01T17:30:59-04:00
 draft: false
 tags:
 - jessica
+- sxsw
 resources:
 - src: 2006 sultry cowgirls.jpg
   title:

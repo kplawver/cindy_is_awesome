@@ -2,6 +2,8 @@
 title: "Yanie: How I Met Cindy"
 date: 2018-10-10T12:43:10-04:00
 draft: false
+tags:
+- aol
 resources:
 - src: img-01.jpg
   title:

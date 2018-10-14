@@ -4,6 +4,7 @@ date: 2018-10-01T17:33:12-04:00
 draft: false
 tags:
 - jessica
+- wedding
 resources:
 - src: 2010 wedding.jpg
   title:

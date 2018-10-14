@@ -2,6 +2,9 @@
 title: "Stef: It just feels like I always knew her."
 date: 2018-10-08T15:12:59-04:00
 draft: false
+tags:
+- sxsw
+- star wars
 resources:
 - src: img-01.jpg
   title: Cindy and Mark Hamill!

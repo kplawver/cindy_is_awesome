@@ -4,6 +4,7 @@ date: 2018-09-30T15:00:42-04:00
 draft: false
 tags:
 - jackson
+- food
 resources:
 - src: cindy and jackson.jpg
   title: ""

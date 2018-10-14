@@ -4,6 +4,7 @@ date: 2018-10-01T07:38:23-04:00
 draft: false
 tags:
 - walt
+- food
 resources:
 - src: IMG_0057.jpg
   title:

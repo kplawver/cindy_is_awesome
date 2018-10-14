@@ -2,6 +2,8 @@
 title: "Zack Sheppard"
 date: 2018-10-14T07:04:17-04:00
 draft: false
+tags:
+- flickr
 ---
 Hi Cindy Li, sweet as can be.
 
