@@ -28,11 +28,11 @@
               {{ $image = . }}
             {{ end }}
 
-
-
             <figure class="{{ $figure_cls }}">
               <img alt="{{ .Params.Alt }}" src="{{ $image.RelPermalink }}"/>
-              <figcaption>{{ emojify .Title }}</figcaption>
+              {{ if not (eq .Title .Name) }}
+                <figcaption>{{ emojify .Title }}</figcaption>
+              {{ end }}
             </figure>
           {{ end }}
         {{ end }}
