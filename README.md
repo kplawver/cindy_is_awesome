@@ -2,6 +2,14 @@
 
 And you can help remind her how awesome we all think she is!
 
+## Contributing
+
+If you're like to share a story and/or photo, there are a few ways to do it:
+
+* Send an email to kevin@lawver.net with your story and photos and I'll post it for you.
+* Create a [new issue](https://github.com/kplawver/cindy_is_awesome/issues/new) with the story and photo and I'll add it.
+* Create a pull request with your post added. I'll merge it and deploy it.
+
 ## Setup
 
 * This thing is built on [Hugo](https://gohugo.io), so you'll need to install it. That's pretty easy.

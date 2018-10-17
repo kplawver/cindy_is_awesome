@@ -1,0 +1,11 @@
+ul.tag-list {
+  margin: 50px 25%;
+  padding: 0;
+  list-style: none;
+}
+
+ul.tag-list li.tag {
+  display: inline-block;
+  margin: 0 10px 10px 0;
+  padding: 0;
+}
