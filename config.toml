@@ -2,7 +2,7 @@ baseURL = "https://cindyisawesome.lawver.net"
 languageCode = "en-us"
 title = "Cindy Li Is Awesome and Everyone Loves Her"
 theme = "ananke"
-paginate = 25
+paginate = 15
 
 [params]
   description = ""
@@ -16,6 +16,16 @@ resize="800x"
 
 [taxonomies]
 tags = "tags"
+
+[[menu.main]]
+  name = "Browse the Tags"
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "Share Your Cindy Story"
+  identifer = "share"
+  url = "/share"
+
 
 # [related]
 #   threshold = 80
