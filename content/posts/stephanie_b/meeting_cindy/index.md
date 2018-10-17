@@ -27,7 +27,30 @@ resources:
   title: Cindy, Megan & Steph - Fremont Troll
 - src: img-11.jpg
   title: Cindy, Steph & Megan @ the Space Needle
-
+- src: img-12.jpg
+  title: Cindy 2003-10-18 with a guy - don't know his name Seattle
+- src: img-13.jpg
+  title: Cindy and Megan 2008-10-18
+- src: img-14.jpg
+  title: Cindy and Steph 2003-10-18
+- src: img-15.jpg
+  title: Cindy and Steph
+- src: img-16.jpg
+  title: Cindy and Steph
+- src: img-17.jpg
+  title: Cindy Fremont Troll 2003-10-19
+- src: img-18.jpg
+  title: Cindy and Steph2 2003-10-21
+- src: img-19.jpg
+  title: Cindy, Steph, Megan and Susan ferry leaving Victoria 2003-10-21
+- src: img-20.jpg
+  title: Cindy, Megan, Susan on whale watching boat 2003-10-21
+- src: img-21.jpg
+  title: Cindy, Steph and Megan Williams 2003-10-18
+- src: img-22.jpg
+  title: Cindy, Steph, Megan and Susan going whale watching Victoria 2003-10-21
+- src: img-23.jpg
+  title: Cindy, Steph, Megan and Susan lunch in Victoria 2003-10-21
 ---
 
 I met Cindy ages ago, in a galaxy far, far, away (Jacksonville, where we grew up). I don't remember how we met either (I assume it was school? My memory isn't the best), but we spent a lot of time together growing up. We spent a lot of time together on the bus and phone and living in fear of our Asian moms, as only teenagers can. :smile: We probably never would have guessed then that we would both be off living in major cities.
