@@ -4,7 +4,7 @@ date: 2018-10-19T13:15:19-04:00
 draft: false
 ---
 
-43 of Fox Chapel, formerly of San Francisco, CA; Washington, D.C.; Atlanta, GA; and Jacksonville, FL passed away on Monday, October 15, 2018. She is survived by her beloved husband, Matthew James Harris; sons Apollo and Orion Li Harris; parents, Ernest Shing Li and Mei Ewa Pan Li; and sister, Amy Sang-Yng Li.
+43 of Fox Chapel, formerly of San Francisco, CA; Washington, D.C.; Atlanta, GA; and Jacksonville, FL passed away on Monday, October 15, 2018. She is survived by her beloved husband, Matthew James Harris; sons Apollo and Orion Li Harris; parents, Ernest Shing Li and Mei Hwa Pan Li; and sister, Amy Sang-Yng Li.
 
 Cindy was born Sang-Ching Li 李上卿 in Taiwan on September 5, 1975. Cindy’s family came to the United States in 1980 and they settled in Jacksonville, Florida in 1981. Cindy excelled in her studies at the University of Florida and graduated in 1997 with a Bachelor’s degree in Fine Arts. Her first project saw her moving to Atlanta, GA to typeset the 1996 Olympics Centennial Wall. This started Cindy’s impressive career as a pioneer visual, accessibility, and user experience designer, working on products and services for AOL.com, Move.com, and Yahoo!, including being the lead designer for the relaunch of Flickr for iOS in 2012.
 
