@@ -36,6 +36,18 @@
             </figure>
           {{ end }}
         {{ end }}
+        {{ with .Page.Resources.Match "*.mp4" }}
+          {{ range . }}
+            <figure>
+              <video controls>
+                <source src="{{ .RelPermalink }}" type="video/mp4"/>
+              </video>
+              {{ if not (eq .Title .Name) }}
+                <figcaption>{{ emojify .Title }}</figcaption>
+              {{ end }}
+            </figure>
+          {{ end }}
+        {{ end }}
         </section>
         {{ partial "tags.html" .}}
         <nav class="footer-nav">

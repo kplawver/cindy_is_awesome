@@ -12,6 +12,10 @@ section.gallery figure.no-resize img {
   margin: 0 auto;
 }
 
+section.gallery figure video {
+  max-width: 100%;
+}
+
 section.gallery figure figcaption {
   margin: 12px 0 0;
 }
