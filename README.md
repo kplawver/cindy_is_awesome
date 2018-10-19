@@ -14,7 +14,7 @@ If you'd like to share a story and/or photo, there are a few ways to do it:
 
 * This thing is built on [Hugo](https://gohugo.io), so you'll need to install it. That's pretty easy.
 * As of right now, we're using the Ananke theme, which is installed as a git submodule, so once you checkout this repo, you'll need to run `git submodule update --init --recursive` in the directory.
-* Once you've install hugo and fetched the theme, you can see things by running `huge serve -D` and then pointing your favorite browser to [ye olde localhost](http://localhost:1313)
+* Once you've install hugo and fetched the theme, you can see things by running `hugo serve -D` and then pointing your favorite browser to [ye olde localhost](http://localhost:1313)
 
 ## Cleanup
 
