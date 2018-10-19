@@ -5,6 +5,7 @@ draft: false
 tags:
 - marcela
 - emily
+- video
 ---
 
 Looking through my videos, I found this gem. Dance party with Apollo, Matt, and Cindy. This was just a couple of days after Cindy got her diagnosis. Emily Yiu and I flew to give her a huge hug and let her know we love her.

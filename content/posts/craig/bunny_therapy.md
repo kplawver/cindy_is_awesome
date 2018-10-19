@@ -5,6 +5,7 @@ draft: false
 tags:
 - craig
 - hello-kitty
+- video
 ---
 
 There was a Sunday Hello Kitty brunch one day in... 2008 it looks like, and I think Cindy was still working for ScrapBlog at the time? I don't remember the details but she'd had a shitty day the day before, so I searched for a pet store that had rabbits and after brunch we went out for Bunny Therapy. Let's see if this video will post on slack...
