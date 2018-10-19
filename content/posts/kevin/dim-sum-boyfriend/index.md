@@ -8,6 +8,6 @@ tags:
 
 I have a lot of funny photos of Cindy, but this is my absolute favorite.  My kids both _love_ Cindy, but my youngest, Brian, was _in love_ with Cindy.  I hesitate to say anything because I don't want to make Matt jealous, but the truth has to come out.
 
-This photo was taken at one of Cindy's _many_ dim sum outings.  We were all stuffed and Cindy had picked Brian up and was giving him a goodbye kiss on the cheek. At the very last second, sneaky little Brian turned his head and planted one right on her lips.  Cindy shrieked with laughter, Brian turned bright red, and the rest of us giggled uncontrollably.
+This photo was taken at one of Cindy's _many_ dim sum outings.  We were all stuffed, and heading for the exit, when Cindy picked Brian up to give him a goodbye kiss on the cheek. At the very last second, sneaky little Brian turned his head and planted one right on her lips.  Cindy shrieked with laughter, Brian turned bright red, and the rest of us giggled uncontrollably.
 
 Cindy was so great with kids - all of them - but I love that she was great with mine.
