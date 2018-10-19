@@ -18,13 +18,20 @@ resize="800x"
 tags = "tags"
 
 [[menu.main]]
-  name = "Browse the Tags"
+  name = "Browse by Tag"
   identifier = "tags"
   url = "/tags/"
+  weight = 100
 [[menu.main]]
   name = "Share Your Cindy Story"
   identifer = "share"
   url = "/share"
+  weight = 10
+[[menu.main]]
+  name = "Cindy's Obituary"
+  identifier = "obituary"
+  url = "/obituary"
+  weight = 1
 
 
 # [related]
