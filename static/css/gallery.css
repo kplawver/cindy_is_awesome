@@ -14,6 +14,7 @@ section.gallery figure.no-resize img {
 
 section.gallery figure video {
   max-width: 100%;
+  margin: 0 auto;
 }
 
 section.gallery figure figcaption {
