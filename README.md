@@ -18,5 +18,5 @@ If you'd like to share a story and/or photo, there are a few ways to do it:
 
 ## Cleanup
 
-* The repo is pretty big (over 350mb), so you'll want to run `hugo --gc` especially if you've been messing with resizing images.
+* The repo is pretty big (over 800mb), so you'll want to run `hugo --gc` especially if you've been messing with resizing images.
 * We don't store the `public` or `resources` directories in git because they're generated, so the first time you run things, it might take a sec to resize all the images.  If you're done playing around, you can delete those two directories to clean up hard drive space.
