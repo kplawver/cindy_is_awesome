@@ -1,3 +1,4 @@
 deploy
 public
 resources/_gen
+scripts/tweet_collector/config.json
