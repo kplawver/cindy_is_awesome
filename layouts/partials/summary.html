@@ -3,7 +3,7 @@
     <span class="f6 db">{{ humanize .Section }}</span>
     <h1 class="f3 near-black">
       <a href="{{ .URL }}" class="link black dim">
-        {{ .Title }}
+        {{ emojify .Title }}
       </a>
     </h1>
     {{ with .Resources.ByType "image" }}
@@ -17,7 +17,7 @@
       </aside>
     {{ end }}
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      {{ .Summary  }}
+      {{ emojify .Summary  }}
     </div>
   </div>
 </div>
