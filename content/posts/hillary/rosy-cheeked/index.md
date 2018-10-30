@@ -1,5 +1,5 @@
 ---
-title: "Hillary: Red Faced"
+title: "Hillary: Rosy Cheeked"
 date: 2018-10-30T07:38:47-04:00
 draft: false
 tags:
